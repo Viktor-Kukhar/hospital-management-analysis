@@ -17,7 +17,7 @@ An interactive Tableau dashboard to report this findings can be found here: [Hos
 
 ## Data Structure & Initial Checks
 
-The database consists of five interconnected tables:
+The database I created consists of five interconnected tables:
 
 -   **Doctor:** Contains doctor information, including `doctor_id`, `first_name`, `specialization`, and `years_experience`.
 -   **Patient:** Stores patient details like `patient_id`, `first_name`, `last_name`, and `insurance_provider`.
