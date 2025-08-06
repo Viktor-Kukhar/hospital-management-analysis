@@ -1,4 +1,4 @@
-# Hospital Management SQL Project
+# Hospital Management Analysis (2023)
 
 ## Project Background
 
