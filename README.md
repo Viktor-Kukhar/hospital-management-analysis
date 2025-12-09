@@ -32,8 +32,6 @@ The hospital faces significant operational challenges with a 52% appointment can
 
 - **Appointment volume peaks in April then declines steadily**, with a corresponding revenue peak in July suggesting seasonal patterns in both volume and treatment complexity.
 
-<img width="1512" height="920" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/6e1ada25-0571-4dfa-8a16-5260ebf3b458" />
-
 ---
 
 ## Recommendations
