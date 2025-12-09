@@ -8,7 +8,7 @@ Analysis of hospital operational data to identify trends in doctor performance, 
 
 **Tools:** SQL, Tableau
 
-[**→ View Interactive Dashboard**](https://public.tableau.com/views/HospitalManagement_17528395711840/Dashboard1)
+[**→ View Interactive Dashboard**](https://public.tableau.com/views/HospitalManagement_17528395711840/Dashboard)
 
 ---
 
