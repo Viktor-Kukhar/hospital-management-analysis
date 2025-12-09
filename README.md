@@ -12,6 +12,14 @@ Analysis of hospital operational data to identify trends in doctor performance, 
 
 ---
 
+## Executive Summary
+
+The hospital faces significant operational challenges with a 52% appointment cancellation rate driving revenue loss and a concentrated workload among dermatology specialists (Dr. Sarah Taylor handling 3x average volume). Financial analysis reveals heavy dependence on three insurance providers (Medicare Plus, PulseSecure, WellnessCorp) creating concentration risk, while counterintuitively, less experienced doctors (0-5 years) show the highest average treatment costs, suggesting misaligned case assignment protocols that require investigation.
+
+<img width="1512" height="920" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/6e1ada25-0571-4dfa-8a16-5260ebf3b458" />
+
+---
+
 ## Key Findings
 
 - **Dr. Sarah Taylor handles disproportionate appointment volume** as the leading dermatologist, closely followed by David Taylor (also dermatology) - indicating high demand for dermatology services but potential burnout risk.
@@ -30,7 +38,7 @@ Analysis of hospital operational data to identify trends in doctor performance, 
 
 ## Recommendations
 
-**For Hospital Administration:**
+Based on these insights, Hospital Administration should consider the following:
 
 - Hire additional dermatology specialists to redistribute Dr. Taylor's workload and prevent burnout
 - Implement automated appointment reminders and clearer cancellation policies to reduce 52% no-show rate
